@@ -42,7 +42,7 @@ ul li::after{
 	background: #344851;
 	border-left: 4px solid white;
 
-	animation: to-right 3s steps(19) infinite;
+	animation: to-right 3s steps(21) infinite;
 	/*19 because it's the length of the longest-used word 
 	which in this case is Front-end Developer*/
 }
