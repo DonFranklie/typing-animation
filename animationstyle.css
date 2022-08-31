@@ -2,6 +2,9 @@
 	display: flex;
 	align-items: flex-start;
 	gap: .5rem;
+	position: absolute;
+	top: 50%;
+	left: 10%;
 }
 
 body{
